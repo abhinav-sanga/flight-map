@@ -3,7 +3,7 @@ var router = express.Router();
 
 const axios = require('axios');
 const params = {
-  access_key: 'd241d8779a9355b537dab78bd6557bd0'
+  access_key: 'Your-API-key'
 }
 
 /* GET home page. */
